@@ -181,6 +181,13 @@
   },
   "active": "11dda9a3d310512a",
   "lastOpenFiles": [
+    "test/livecoding/sql/tasks.sql",
+    "test/livecoding/java/tasks.java",
+    "test/livecoding/js/tasks.js",
+    "test/livecoding/java",
+    "test/livecoding/sql",
+    "test/livecoding/js",
+    "test/livecoding",
     "theory/topics_summary.md"
   ]
 }
