@@ -1,15 +1,11 @@
 ---
 title: C# Memory Management — Управление памятью
-tags:
-  - csharp
-  - memory
-  - gc
-  - topic
+category: C#
 ---
 
 # C# Memory Management — Управление памятью
 
-**Навигация:** [[../README|← C#.NET]] · [[C# Reflection|Предыдущая: Reflection]] · [[.NET Architecture|Следующая: .NET Architecture]] · [[../Generated tests/csharp_test|Tests]]
+**Навигация:** [[README|← C#]] · [[C# Reflection|Предыдущая: Reflection]] · [[../.NET/README|→ .NET]]
 
 ---
 
@@ -663,9 +659,9 @@ public class ExpensiveObject
 ## 🔗 Связанные темы
 
 - [[C# Reflection|Reflection]] — предыдущая тема
-- [[.NET Architecture|.NET Architecture]] — следующая тема
-- [[../Generated tests/csharp_test|Тест по C#]] — проверка знаний
-- [[../Questions/C# Core Questions|Вопросы по C# Core]] — дополнительные вопросы
+- [[README|← Назад к списку тем C#]]
+- [[C# Reflection|Предыдущая тема: Reflection]]
+- [[../.NET/README|→ Перейти к .NET темам]] (после изучения C#)
 
 ---
 
@@ -673,5 +669,4 @@ public class ExpensiveObject
 
 1. Изучи теорию выше
 2. Пройди быстрый опросник
-3. Проверь знания в [[../Generated tests/csharp_test|Generated Tests]]
-4. Переходи к [[.NET Architecture|.NET Architecture]]
+3. Переходи к [[../.NET/README|.NET темам]] (после изучения всех тем C#)

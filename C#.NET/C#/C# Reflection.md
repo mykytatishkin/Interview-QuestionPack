@@ -1,14 +1,11 @@
 ---
 title: C# Reflection — Рефлексия
-tags:
-  - csharp
-  - reflection
-  - topic
+category: C#
 ---
 
 # C# Reflection — Рефлексия
 
-**Навигация:** [[../README|← C#.NET]] · [[C# Generics|Предыдущая: Generics]] · [[C# Memory Management|Следующая: Memory]] · [[../Generated tests/csharp_test|Tests]]
+**Навигация:** [[README|← C#]] · [[C# Generics|Предыдущая: Generics]] · [[C# Memory Management|Следующая: Memory]]
 
 ---
 
@@ -579,12 +576,11 @@ var attrs = property.GetCustomAttributes();
 
 ---
 
-## 🔗 Связанные темы
+## 🔗 Навигация
 
-- [[C# Generics|Generics]] — предыдущая тема
-- [[C# Memory Management|Memory Management]] — следующая тема
-- [[../Generated tests/csharp_test|Тест по C#]] — проверка знаний
-- [[../Questions/C# Core Questions|Вопросы по C# Core]] — дополнительные вопросы
+- [[README|← Назад к списку тем C#]]
+- [[C# Generics|Предыдущая тема: Generics]]
+- [[C# Memory Management|Следующая тема: Memory]] (изучай последовательно)
 
 ---
 
@@ -592,5 +588,4 @@ var attrs = property.GetCustomAttributes();
 
 1. Изучи теорию выше
 2. Пройди быстрый опросник
-3. Проверь знания в [[../Generated tests/csharp_test|Generated Tests]]
 4. Переходи к [[C# Memory Management|Memory Management]]

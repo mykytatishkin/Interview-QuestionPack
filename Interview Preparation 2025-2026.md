@@ -36,17 +36,16 @@ tags:
 Подготовка к собеседованию на позицию .NET Developer с актуальными вопросами на 2025-2026.
 
 **Структура:**
-- [[C#.NET/Topics/C# Basics|Topics]] — все темы с теорией и быстрыми опросниками
+- [[C#.NET/C#/README|C#]] — темы по языку C# (Basics, OOP, Generics, Reflection, Memory, SOLID)
+- [[C#.NET/.NET/README|.NET]] — темы по платформе .NET (Architecture, Middleware, Authentication)
+- [[C#.NET/MS SQL/README|MS SQL]] — темы по базе данных (Basics, Indexes, Functions, CTE)
 - [[C#.NET/Generated tests/csharp_test|Generated Tests]] — автоматически сгенерированные тесты
 - [[C#.NET/Questions/C# Core Questions|Questions]] — актуальные вопросы для собеседований
 
 **Основные темы:**
-- [[C#.NET/Topics/C# Basics|C# Basics]] — основы языка + быстрый опросник
-- [[C#.NET/Topics/C# OOP|C# OOP]] — объектно-ориентированное программирование + быстрый опросник
-- [[C#.NET/Topics/SOLID Principles|SOLID Principles]] — принципы проектирования + быстрый опросник
-- [[C#.NET/Topics/C# Generics|C# Generics]] — обобщенные типы + быстрый опросник
-- [[C#.NET/Topics/.NET Architecture|.NET Architecture]] — архитектура .NET + быстрый опросник
-- И другие темы в папке Topics
+- **C#:** [[C#.NET/C#/C# Basics|C# Basics]], [[C#.NET/C#/C# OOP|C# OOP]], [[C#.NET/C#/SOLID Principles|SOLID Principles]]
+- **.NET:** [[C#.NET/.NET/.NET Architecture|.NET Architecture]], [[C#.NET/.NET/.NET Middleware|.NET Middleware]]
+- **MS SQL:** [[C#.NET/MS SQL/MS SQL Basics|MS SQL Basics]], [[C#.NET/MS SQL/MS SQL Indexes|MS SQL Indexes]]
 
 ---
 
