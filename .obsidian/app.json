@@ -18,5 +18,6 @@
   "foldIndent": true,
   "showFrontmatter": true,
   "showIndentGuide": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }

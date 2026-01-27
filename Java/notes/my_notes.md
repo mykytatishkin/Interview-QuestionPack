@@ -10,7 +10,7 @@ tags:
 
 Здесь — заметки после прохождения [[test/java_junior_interview_test|теста]] и проверки. Добавляй то, что стоит повторить или запомнить.
 
-**Навигация:** [[README|← Главная]] · [[theory/topics_summary|Шпаргалка]] · [[test/java_junior_interview_test|Тест]]
+**Навигация:** [[Interview Preparation 2025-2026|← Главная]] · [[theory/topics_summary|Шпаргалка]] · [[test/java_junior_interview_test|Тест]]
 
 ---
 
