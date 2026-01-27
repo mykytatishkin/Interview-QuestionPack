@@ -1,6 +1,12 @@
 ---
 title: C# Basics — Основы C#
 category: C#
+parent: [[../README|Topics]]
+child: [[quick_check|Quick Check]]
+breadcrumbs:
+  - [[../../README|C#.NET]]
+  - [[../README|Topics]]
+  - [[notes|C# Basics]]
 ---
 
 # C# Basics — Основы C#

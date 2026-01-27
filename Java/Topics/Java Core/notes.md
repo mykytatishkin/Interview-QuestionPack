@@ -5,6 +5,12 @@ tags:
   - core
   - topic
   - summary
+parent: [[../README|Topics]]
+child: [[quick_check|Quick Check]]
+breadcrumbs:
+  - [[../../Java 2025-2026|Java]]
+  - [[../README|Topics]]
+  - [[notes|Java Core]]
 ---
 
 # Java Core Summary — Шпаргалка по Java Core

@@ -1,6 +1,9 @@
 ---
 title: C# / .NET — Подготовка к собеседованию 2025-2026
-parent: Interview Preparation 2025-2026
+parent: [[../README|Interview]]
+breadcrumbs:
+  - [[../README|Interview]]
+  - [[README|C#.NET]]
 ---
 
 # 🔷 C# / .NET — Подготовка к собеседованию 2025-2026

@@ -5,6 +5,9 @@ tags:
   - preparation
   - csharp
   - java
+root: true
+breadcrumbs:
+  - [[README|Interview]]
 ---
 
 # 📚 Interview Preparation Repository
@@ -70,7 +73,10 @@ Interview/
 
 ## 📋 Документация
 
+- [[Tree View|🌳 Tree View]] — Визуальное дерево структуры
+- [[Interview MOC|📚 Interview MOC]] — Карта навигации
 - [[VAULT_STRUCTURE_DESIGN|Проект структуры репозитория]]
+- [[OBSIDIAN_TREE_STRUCTURE_GUIDE|Руководство по настройке дерева]]
 - [[STRUCTURE|Структура репозитория (старая)]]
 
 ---

@@ -5,6 +5,10 @@ tags:
   - topics
   - csharp
   - dotnet
+parent: [[../README|C#.NET]]
+breadcrumbs:
+  - [[../README|C#.NET]]
+  - [[README|Topics]]
 ---
 
 # 📚 Индекс тем: C#.NET

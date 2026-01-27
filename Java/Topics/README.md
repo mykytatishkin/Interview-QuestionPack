@@ -4,6 +4,10 @@ tags:
   - index
   - topics
   - java
+parent: [[../Java 2025-2026|Java]]
+breadcrumbs:
+  - [[../Java 2025-2026|Java]]
+  - [[README|Topics]]
 ---
 
 # 📚 Индекс тем: Java
