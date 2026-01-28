@@ -8,7 +8,7 @@ tags:
 
 # C# Core Questions
 
-**Навигация:** [[../README|← C#.NET]] · [[../C#/README|C# Topics]] · [[../Generated tests/csharp_test|Tests]]
+**Навигация:** [[../Index|← C#.NET]] · [[../Topics/Index|Topics]] · [[../Generated Tests/Index|Tests]]
 
 ---
 

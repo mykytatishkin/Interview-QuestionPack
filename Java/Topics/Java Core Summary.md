@@ -9,7 +9,7 @@ tags:
 
 # Java Core Summary — Шпаргалка по Java Core
 
-**Навигация:** [[../Java 2025-2026|← Java]] · [[../Generated tests/java_junior_interview_test|Tests]]
+**Навигация:** [[../Java 2025-2026|← Java]] · [[../Generated Tests/java_junior_interview_test|Tests]]
 
 ---
 

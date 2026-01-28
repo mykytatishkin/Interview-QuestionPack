@@ -5,7 +5,7 @@ category: .NET
 
 # .NET Middleware — Middleware в ASP.NET Core
 
-**Навигация:** [[../README|← Topics]]
+**Навигация:** [[../Index|← Topics]]
 
 ---
 
@@ -521,7 +521,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 
 ## 🔗 Навигация
 
-← [[../README|Вернуться к списку тем]]
+← [[../Index|Вернуться к списку тем]]
 
 ---
 
@@ -529,4 +529,4 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 
 1. Изучи теорию выше
 2. Пройди [[quick_check|быстрый опросник]]
-3. Вернись к [[../README|списку тем]] для выбора следующей темы
+3. Вернись к [[../Index|списку тем]] для выбора следующей темы

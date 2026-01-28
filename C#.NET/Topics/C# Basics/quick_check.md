@@ -6,8 +6,8 @@ tags:
   - basics
 parent: [[notes|C# Basics]]
 breadcrumbs:
-  - [[../../README|C#.NET]]
-  - [[../README|Topics]]
+  - [[../../Index|C#.NET]]
+  - [[../Index|Topics]]
   - [[notes|C# Basics]]
   - [[quick_check|Quick Check]]
 ---
@@ -61,4 +61,4 @@ Console.WriteLine(arr[0]);
 ## 🔗 Навигация
 
 ← [[notes|Вернуться к конспекту]]
-← [[../README|Вернуться к списку тем]]
+← [[../Index|Вернуться к списку тем]]
